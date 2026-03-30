@@ -1,0 +1,7 @@
+{
+  "name": "Anex Office - Flexible Workspace Durban",
+  "description": "Premium flexible office spaces, coworking areas, and meeting rooms in Durban, South Africa. Professional, affordable, and fully equipped.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
